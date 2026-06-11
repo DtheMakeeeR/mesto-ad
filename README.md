@@ -4,7 +4,6 @@ Mesto — это веб-приложение, где пользователи м
 
 ## Ссылка на проект
 
-[https://baifffboy.github.io/mesto-production/](https://baifffboy.github.io/mesto-production/)
 
 ## Технологии
 
