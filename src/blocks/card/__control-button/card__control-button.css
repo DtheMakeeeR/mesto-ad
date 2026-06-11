@@ -1,0 +1,30 @@
+.card__control-button {
+  position: absolute;
+  top: 18px;
+  left: 18px;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  font-family: 'Inter', Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1;
+  cursor: pointer;
+  transition: opacity 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card__control-button:hover {
+  opacity: 0.6;
+}
+
+.card__control-button_type_info::before {
+  content: 'i';
+}
